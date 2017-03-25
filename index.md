@@ -3,7 +3,7 @@ dmozlin@gmail.com
 ---------------------------------
 
 **Reading list**:  
-<img src="https://www.samharris.org/images/made/images/uploads/lying-big-cover_900_1360_s@2x.png" width=180>  
+<img src="https://www.samharris.org/images/made/images/uploads/lying-big-cover_900_1360_s@2x.png" width="180" />  
 Lying  
 https://www.samharris.org/lying    
   
